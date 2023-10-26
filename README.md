@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Daniel. I am starting to learn HTML, CSS and Javascript, in order to become a great Web Developer. 
+
+
+
 <!--
 **DGSchaffer/dgschaffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
