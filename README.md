@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Daniel. I am starting to learn HTML, CSS and Javascript, in order to become a great Web Developer. 
+My name is Daniel, from Vienna. 
+I am starting to learn HTML, CSS and Javascript, in order to become a Web Developer. 
+
 
 
 
