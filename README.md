@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Daniel, from Vienna. 
-I am about to start learning HTML, CSS and Javascript, in order to become a Web Developer. 
+My name is Daniel. 
+I am currently at coding bootcamp, learning HTML, CSS and Javascript, in order to become a Web Developer. 
 
 
 
