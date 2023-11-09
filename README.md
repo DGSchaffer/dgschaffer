@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My name is Daniel. 
-I am currently at coding bootcamp, learning HTML, CSS and Javascript, in order to become a Web Developer. 
-
+- 🌱 I’m currently learning HTML, CSS and Javascript, in order to become a Web Developer. 
+- 📫 How to reach me: d.g.schaffer@gmail.com
 
 
 
