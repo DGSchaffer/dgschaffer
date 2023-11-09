@@ -4,7 +4,7 @@ My name is Daniel.
 - 🌱 I’m currently learning HTML, CSS and Javascript, in order to become a Web Developer. 
 - 📫 How to reach me: d.g.schaffer@gmail.com
 
-![DGSchaffer's Stats](https://github-readme-stats.vercel.app/api?username=DGSchaffer&theme=vue&show_icons=true&hide_border=true&count_private=false)
+![DGSchaffer's Stats](https://github-readme-stats.vercel.app/api?username=DGSchaffer&theme=graywhite&show_icons=true&hide_border=true&count_private=false)
 
 <!--
 **DGSchaffer/dgschaffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
