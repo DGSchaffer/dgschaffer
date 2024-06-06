@@ -1,8 +1,4 @@
-### Hi there 👋
-
-My name is Daniel. 
-- 🌱 I’m currently learning HTML, CSS and Javascript, in order to become a Web Developer. 
-- 📫 How to reach me: d.g.schaffer@gmail.com
+Web Developer
 
 ![DGSchaffer's Stats](https://github-readme-stats.vercel.app/api?username=DGSchaffer&theme=graywhite&show_icons=true&hide_border=true&count_private=false)
 
